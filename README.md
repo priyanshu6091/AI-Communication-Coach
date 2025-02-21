@@ -1,4 +1,4 @@
-# AI Communication Coach
+# AI Communication Coach(Under development)
 
 An intelligent speech training application that helps users improve their communication skills through AI-powered feedback.
 
